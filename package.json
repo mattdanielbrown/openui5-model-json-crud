@@ -26,7 +26,7 @@
     "@openui5/ts-types": "^1.135.0",
     "eslint": "^9.25.1",
     "eslint-config-mlauffer-ui5": "^2.1.0",
-    "eslint-plugin-wdio": "^9.9.1",
+    "eslint-plugin-wdio": "^9.16.2",
     "wdio-qunit-service": "^2.0.0"
   },
   "scripts": {
