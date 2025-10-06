@@ -27,7 +27,7 @@
     "eslint": "^9.25.1",
     "eslint-config-mlauffer-ui5": "^2.1.0",
     "eslint-plugin-wdio": "^9.9.1",
-    "wdio-qunit-service": "^2.0.0"
+    "wdio-qunit-service": "^2.0.1"
   },
   "scripts": {
     "start": "ui5 serve",
